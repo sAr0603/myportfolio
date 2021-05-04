@@ -1,4 +1,4 @@
-# portfolio
+# myportfolio
 
 My Personal portfolio built while learning Gatsby.js
 
